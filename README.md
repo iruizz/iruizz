@@ -12,7 +12,7 @@ I will be uploading some
 - 📫 How to reach me: 
 - Email: isaacvert7@gmail.com || ir556351@loras.edu
 - Cell: (309) - 428 - 1946
-- Linked In: <a href="www.linkedin.com/in/isaac-ruiz-24b716215"> Isaac's Profile</a>
+- Linked In: <a href="https://www.linkedin.com/in/isaac-ruiz-24b716215/"> Isaac's Profile</a>
 
 <hr>
 
