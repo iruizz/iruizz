@@ -28,7 +28,7 @@ I will be uploading some of my completed programming projects here.
 
 ### 📊 Stats
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=iruizzt&show_icons=true&theme=algolia)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=iruizz&show_icons=true&theme=algolia)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iruizz&theme=gruvbox&border_radius=4.5) -->
 #
