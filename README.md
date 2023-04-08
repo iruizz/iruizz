@@ -22,6 +22,7 @@ I will be uploading some of my completed programming projects here.
 <img align="left" alt="C++" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
 <br />
 
 #
@@ -36,7 +37,7 @@ I will be uploading some of my completed programming projects here.
 ### 📞 Reach Me Here: 
 - Email: isaacvert7@gmail.com || ir556351@loras.edu
 - Cell: (309) - 428 - 1946
-- Linked In: <a href="https://www.linkedin.com/in/isaac-ruiz-24b716215/"><img align="left" alt="PHP" width="30px" style="padding-right:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />Isaac's Profile</a>
+- <a href="https://www.linkedin.com/in/isaac-ruiz-24b716215/"><img align="left" alt="PHP" width="30px" style="padding-right:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />Isaac's Profile</a>
 
 <br>
 
