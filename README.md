@@ -21,6 +21,8 @@ I will be uploading some of my completed programming projects here.
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+---
+
 ### 📞 Reach Me Here: 
 - Email: isaacvert7@gmail.com || ir556351@loras.edu
 - Cell: (309) - 428 - 1946
