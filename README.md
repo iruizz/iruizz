@@ -9,6 +9,8 @@ I will be uploading some of my completed programming projects here.
 
 <p> </p>
 
+---
+
 ### 🧰 Languages and Tools 
 
 <img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
