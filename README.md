@@ -7,7 +7,8 @@ I'm an undergrad student at Loras College Majoring in Computer Science with a mi
 continously sharpening their skills, gaining experience, and building new projects. 
 I will be uploading some of my completed programming projects here. 
 
-<br>
+<p> </p>
+
 ### 🧰 Languages and Tools 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
