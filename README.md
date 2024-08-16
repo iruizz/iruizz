@@ -22,7 +22,7 @@ I am a Software Engineer that is devoted to continously sharpening their skills,
 <img align="left" alt="QML" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <br/>
 
-### 🔧 Tools/Libraires/Frameworks
+### 🔧 Tools/Libraries/Frameworks
 <img align="left" alt="GitHub" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
