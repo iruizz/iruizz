@@ -1,7 +1,7 @@
 
 # 👾 Isaac Ruiz 👾
 
-**`Digital Craftsman (Aspiring Software Developer)`**
+**`Digital Craftsman`**
 
 I'm an undergrad student at Loras College Majoring in Computer Science with a minor in Mathematics. I am a passionate programmer that is devoted to 
 continously sharpening their skills, gaining experience, and building new projects. 
